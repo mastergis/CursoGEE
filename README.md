@@ -83,7 +83,7 @@ A fin de poder recibir un certificado de finalización del curso usted debe ser 
 
 - [Ejercicio N°01](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/tarea/PROP_01_RUSLE.ipynb):  Estimar la Erosión multianual para cualquier parte del mundo
 
-- [Ejercicio N°02](https://github.com/mastergis/curso-GEE/blob/main/tarea/prop02_ND.ipynb): Elaborar un Mapa de Índice espectral puede ser NDVI, NDSI, NDWI, etc.) 
+- [Ejercicio N°02](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/tarea/prop02_ND.ipynb): Elaborar un Mapa de Índice espectral puede ser NDVI, NDSI, NDWI, etc.) 
 ### :gift: **Snippets**
 
 Puedes acceder a todos los snippets desarrollados en el curso dando clic [aquí](https://colab.research.google.com/drive/1n0CWwURmOmw93GDkiwcT5HWtwv5pbtjl)
