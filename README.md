@@ -63,7 +63,7 @@ En este curso presentamos el potencial que tiene el uso de Google Earth Engine p
 - **Módulo 5:** GEE en acción I
   - [Manipulación de ee.Image y ee.ImageCollection y exploración de metadatos](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module05/01_metadatos_I.ipynb).
   - [Manipulación de ee.Feature y ee.FeatureCollection y exploración de metadatos](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module05/02_metadatos_II.ipynb).
-  - [Reducciones espacio temporales en ee.Image y ee.ImageCollection.](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module05/03_reducer.ipynb)
+  - [Reducciones espacio temporales en ee.Image y ee.ImageCollection.](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module05/03_reducer.ipynb)
   - [Ejercicio 01:  Generación de una base de datos espacial](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module05/04_Ejercicio_01.ipynb).
   - [Ejercicio 02:  Descarga automática de imágenes Sentinel-2 en cualquier parte del mundo de forma 100% automatica.](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module05/05_Ejercicio_02.ipynb)
 
