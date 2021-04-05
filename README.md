@@ -48,7 +48,7 @@ En este curso presentamos el potencial que tiene el uso de Google Earth Engine p
   
   
 - **Módulo 3:** Datos Espaciales en Python
-  - [WKT y GeoJSON e introducción a geopandas](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module03/01_wkt_geojson.ipynb).
+  - [WKT y GeoJSON e introducción a geopandas](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module03/01_wkt_geojson.ipynb).
   - Subida de datos raster y vector a GEE
 
 
