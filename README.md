@@ -54,8 +54,8 @@ En este curso presentamos el potencial que tiene el uso de Google Earth Engine p
 
 - **Módulo 4:** Sintaxis en GEE 
   - [Como inicializar la Earth Engine Python API](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module04/01_EDGEE.ipynb).
-  - [ED básicas en Google Earth Engine](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module04/01_EDGEE.ipynb).
-  - [ED espaciales en Google Earth Engine I (ee.Image): cálculo de índices: NDVI, NDWI.](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module04/02_EDGEE.ipynb) 
+  - [ED básicas en Google Earth Engine](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module04/01_EDGEE.ipynb).
+  - [ED espaciales en Google Earth Engine I (ee.Image): cálculo de índices: NDVI, NDWI.](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module04/02_EDGEE.ipynb) 
   - [ED espaciales en Google Earth Engine II ( ee.ImageCollection): map y filter](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module04/03_EDGEE.ipynb)
   - [ED espaciales en Google Earth Engine III (ee.Feature y ee.FeatureCollection).](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module04/04_EDGEE.ipynb)
 
