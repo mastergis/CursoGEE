@@ -44,7 +44,7 @@ En este curso presentamos el potencial que tiene el uso de Google Earth Engine p
   - [Ciclos for](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module02/05_Ciclosfor.ipynb).
   - [Funciones](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module02/06_Funciones.ipynb).
   - [Expresiones lambda y funciones map y filter](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module02/07_Lambda.ipynb).
-  - [modulos y paquetes en Python](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/08_Modulos_y_Paquetes.ipynb).
+  - [modulos y paquetes en Python](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module02/08_Modulos_y_Paquetes.ipynb).
   
   
 - **Módulo 3:** Datos Espaciales en Python
