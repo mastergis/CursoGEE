@@ -37,7 +37,7 @@ En este curso presentamos el potencial que tiene el uso de Google Earth Engine p
 
 
 - **Módulo 2:** Sintaxis de mínima de Python para GEE
-  - [Tipos de datos en Python](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module02/01_tipodedatos.ipynb).
+  - [Tipos de datos en Python](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module02/01_tipodedatos.ipynb)
   - [Estructuras de datos](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/02_estructuradedatos.ipynb).
   - [Operadores de comparación](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/03_Operadoresdecomparación.ipynb).
   - [Declaraciones if, else y elif](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/04_if_else_elif.ipynb)
