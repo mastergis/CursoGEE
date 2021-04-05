@@ -41,7 +41,7 @@ En este curso presentamos el potencial que tiene el uso de Google Earth Engine p
   - [Estructuras de datos](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module02/02_estructuradedatos.ipynb).
   - [Operadores de comparación](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module02/03_Operadoresdecomparaci%C3%B3n.ipynb).
   - [Declaraciones if, else y elif](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module02/04_if_else_elif.ipynb)
-  - [Ciclos for](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/05_Ciclosfor.ipynb).
+  - [Ciclos for](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module02/05_Ciclosfor.ipynb).
   - [Funciones](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/06_Funciones.ipynb).
   - [Expresiones lambda y funciones map y filter](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/07_Lambda.ipynb).
   - [modulos y paquetes en Python](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module02/08_Modulos_y_Paquetes.ipynb).
