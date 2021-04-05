@@ -69,7 +69,7 @@ En este curso presentamos el potencial que tiene el uso de Google Earth Engine p
 
 
 - **Módulo 6:** GEE en acción II
-  - [Composición y mosaico](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/01_composites.ipynb).
+  - [Composición y mosaico](https://colab.research.google.com/github/mastergis/curso-GEE/blob/main/module06/01_composites.ipynb).
   - [Técnicas de visualización en ee.Image.Collection](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/02_ICviz.ipynb)
   - [Clasificacion supervisada y no supervisada.](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/03_class.ipynb)
   - [Ejercicio: Predicción de la erosión hídrica a nivel mundial](https://colab.research.google.com/github/csaybar/EarthEngineMasterGIS/blob/master/module06/04_RUSLE.ipynb).
